@@ -1,4 +1,4 @@
-Maze Solver using A* Algorithm
+# 🔍 A* Pathfinding Visualizer | Python Maze Solver
 📌 Overview
 
 This project is a visual implementation of the A (A-Star) Pathfinding Algorithm* using Python and the pyamaze library.
@@ -10,7 +10,9 @@ Complete search traversal
 Explored nodes
 Final shortest path
 Real-time moving agents with footprints
+
 🚀 Features
+
 A* shortest pathfinding algorithm
 Dynamic maze generation
 Animated path traversal
@@ -18,33 +20,44 @@ Multiple agents visualization
 Manhattan Distance heuristic
 Dark theme maze UI
 Search path vs shortest path comparison
+
 🛠 Tech Stack
 Python
 Priority Queue
 pyamaze
 A* Algorithm
+
 📂 Project Structure
 MazeSolving/
 │
 ├── astar.py
 ├── README.md
 └── requirements.txt
+
 ⚙️ Installation
+
 1️⃣ Clone Repository
 git clone https://github.com/yourusername/maze-solver-astar.git
+
 2️⃣ Move into Project Folder
 cd maze-solver-astar
+
 3️⃣ Create Virtual Environment
 python -m venv .venv
+
 4️⃣ Activate Virtual Environment
 Windows
 .venv\Scripts\activate
 Linux / Mac
 source .venv/bin/activate
+
 5️⃣ Install Dependencies
 pip install pyamaze
+
 ▶️ Run Project
 python astar.py
+
+
 🧠 How A* Works
 
 A* algorithm combines:
