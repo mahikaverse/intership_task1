@@ -37,24 +37,31 @@ MazeSolving/
 ⚙️ Installation
 
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/maze-solver-astar.git
+
+git clone https://github.com/mahikaverse/maze-solver-astar.git
 
 2️⃣ Move into Project Folder
+
 cd maze-solver-astar
 
 3️⃣ Create Virtual Environment
+
 python -m venv .venv
 
 4️⃣ Activate Virtual Environment
+
 Windows
 .venv\Scripts\activate
+
 Linux / Mac
 source .venv/bin/activate
 
 5️⃣ Install Dependencies
+
 pip install pyamaze
 
 ▶️ Run Project
+
 python astar.py
 
 
